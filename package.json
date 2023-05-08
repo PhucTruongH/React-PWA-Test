@@ -1,5 +1,6 @@
 {
   "name": "pwa-react-typescript",
+  "homepage": "/React-PWA-Test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
