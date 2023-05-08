@@ -38,7 +38,7 @@ jobs:
       uses: actions/upload-pages-artifact@v1
       with:
           # Upload entire repository
-          path: "/home/runner/work/PWA-React/PWA-React/build" # The folder the action should deploy.
+          path: "/home/runner/work/React-PWA-Test/React-PWA-Test/build" # The folder the action should deploy.
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v2
